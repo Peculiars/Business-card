@@ -1,16 +1,10 @@
 # business_card
+This is a single page app that display basic information about me.
 
-A new Flutter project.
+## Features
+This app is a single page project that display my display picture, my name, my role, my contact details i.e phone number and email address. i built this project using Flutter pre-built widget such as the CircleAvartar for the placement of the display picture, I make use of the Card widget with a listTile widget to place the leading icon and the text inside the card widget. Since the project is immutable, i make use of Stateless widget to simplified the building process.
 
-## Getting Started
+## Packages used
+### Flutter material Package
+### Google fonts package
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
